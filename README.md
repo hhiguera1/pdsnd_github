@@ -2,13 +2,16 @@
 This is the repository for my final project of the *Introduction to Version Control* course in [Udacity](https://www.udacity.com/)
 
 ### Description
-Replace the Project Title
+The repository is used to track changes on the **Bikeshare**   phyton fils and this file **README.md**
 
 ### Files used
-Describe what your project is about and what it does
+Initial files included:
+* .gitignore
+* README.md
+* bikeshare.py
 
 ### Credits
-Include the files used
+The repository was started as a fork of [https://github.com/udacity/pdsnd_github](https://github.com/udacity/pdsnd_github)
 
 ### Created by
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+hhiguera1
