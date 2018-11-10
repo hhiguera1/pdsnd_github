@@ -1,14 +1,14 @@
 # Git Commands Documentation
 This is the repository for my final project of the *Introduction to Version Control* course in [Udacity](https://www.udacity.com/)
 
-### Project Title
+### Description
 Replace the Project Title
 
-### Description
+### Files used
 Describe what your project is about and what it does
 
-### Files used
+### Credits
 Include the files used
 
-### Credits
+### Created by
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
